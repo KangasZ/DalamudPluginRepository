@@ -1,0 +1,42 @@
+﻿[
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.1",
+        "Author": "KangasZ",
+        "DalamudApiLevel": 7,
+        "Description": "Radar plugin that will break your eyes.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/KangasZ/RadarPlugin/releases/latest/download/RadarPlugin.zip",
+        "DownloadLinkTesting": "https://github.com/KangasZ/RadarPlugin/releases/latest/download/RadarPlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/RadarPlugin/releases/latest/download/RadarPlugin.zip",
+        "IconUrl": "",
+        "ImageUrls": [],
+        "InternalName": "RadarPlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "0",
+        "Name": "Radar Plugin",
+        "Punchline": "See things through walls like a badass",
+        "RepoUrl": "https://github.com/KangasZ/RadarPlugin"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.0.1",
+        "Author": "KangasZ",
+        "DalamudApiLevel": 7,
+        "Description": "Radar plugin that will break your eyes.",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/KangasZ/RadarPlugin/releases/latest/download/RadarPlugin.zip",
+        "DownloadLinkTesting": "https://github.com/KangasZ/RadarPlugin/releases/latest/download/RadarPlugin.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/RadarPlugin/releases/latest/download/RadarPlugin.zip",
+        "IconUrl": "",
+        "ImageUrls": [],
+        "InternalName": "RadarPlugin",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "0",
+        "Name": "Radar Plugin",
+        "Punchline": "See things through walls like a badass",
+        "RepoUrl": "https://github.com/KangasZ/RadarPlugin"
+    }
+]
