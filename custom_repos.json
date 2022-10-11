@@ -1,7 +1,7 @@
 ﻿[
     {
         "ApplicableVersion": "any",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "Author": "KangasZ",
         "DalamudApiLevel": 7,
         "Description": "Radar plugin that will break your eyes.",
