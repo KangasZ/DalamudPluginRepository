@@ -84,7 +84,7 @@ def add_extra_fields(manifests):
 
 def write_master(master):
     # write as pretty json
-    with open('pluginmaster.json', 'w') as f:
+    with open('plugin_repository.json', 'w') as f:
         json.dump(master, f, indent=4)
 
 def trim_manifest(plugin):
