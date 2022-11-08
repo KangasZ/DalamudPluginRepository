@@ -1,5 +1,23 @@
 [
     {
+        "Author": "Eternita",
+        "Name": "EnemyListHP (former EnmityHp)",
+        "Punchline": "Displays enemies hp in enemy list.",
+        "Description": "Displays enemies hp in enemy list. Just does that, nothing else. This is a reupload from NightmareXIV",
+        "InternalName": "EnmityHp",
+        "AssemblyVersion": "2.0.0.8",
+        "RepoUrl": "https://github.com/KangasZ/EnmityHp",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/EnmityHp/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/EnmityHp/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/EnmityHp/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1667919186"
+    },
+    {
         "Author": "KangasZ",
         "Name": "Radar Plugin",
         "Punchline": "See things through walls.",
@@ -15,7 +33,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666740940"
+        "LastUpdate": "1667919186"
     },
     {
         "Author": "KangasZ",
@@ -33,6 +51,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1666740940"
+        "LastUpdate": "1667919186"
     }
 ]
