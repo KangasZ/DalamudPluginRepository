@@ -5,7 +5,7 @@
         "Punchline": "See things through walls.",
         "Description": "Radar plugin that will break your eyes.",
         "InternalName": "RadarPlugin",
-        "AssemblyVersion": "1.1.4.3",
+        "AssemblyVersion": "1.1.4.4",
         "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
@@ -15,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1671288731"
+        "LastUpdate": "1671300891"
     },
     {
         "Author": "Windmourn",
@@ -33,7 +33,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1671288731"
+        "LastUpdate": "1671300891"
     },
     {
         "Author": "KangasZ",
@@ -51,6 +51,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1671288731"
+        "LastUpdate": "1671300891"
     }
 ]
