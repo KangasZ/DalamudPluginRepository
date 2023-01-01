@@ -2,7 +2,7 @@
   "Author": "KangasZ",
   "Name": "Radar Plugin",
   "InternalName": "RadarPlugin",
-  "AssemblyVersion": "1.2.0.1",
+  "AssemblyVersion": "1.3.0.0",
   "Description": "Radar plugin that will break your eyes.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
