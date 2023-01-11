@@ -2,11 +2,14 @@
   "Author": "KangasZ",
   "Name": "UI Anti AFK Kick",
   "InternalName": "UIAntiAfkKick",
-  "AssemblyVersion": "3.2.1.0",
+  "AssemblyVersion": "3.2.2.0",
   "Description": "A Dalamud Plugin that will do afk-timers!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/UIAntiAfkKick",
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "No more wiggle checks!"
+  "Punchline": "No more wiggle checks!",
+  "AcceptsFeedback": true
 }
