@@ -6,7 +6,10 @@
   "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario."
+  "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
+  "AcceptsFeedback": true
 }
