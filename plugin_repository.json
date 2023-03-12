@@ -5,7 +5,7 @@
         "Punchline": "See stuff through things!",
         "Description": "3D Radar to see everything through walls.",
         "InternalName": "RadarPlugin",
-        "AssemblyVersion": "1.5.2.0",
+        "AssemblyVersion": "1.5.3.0",
         "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -15,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678493435"
+        "LastUpdate": "1678596278"
     },
     {
         "Author": "KangasZ",
@@ -33,7 +33,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678493435"
+        "LastUpdate": "1678596278"
     },
     {
         "Author": "Windmourn",
@@ -51,6 +51,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678493435"
+        "LastUpdate": "1678596278"
     }
 ]
