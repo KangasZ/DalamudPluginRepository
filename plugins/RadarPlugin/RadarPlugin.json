@@ -2,7 +2,7 @@
   "Author": "KangasZ",
   "Name": "Radar Plugin",
   "InternalName": "RadarPlugin",
-  "AssemblyVersion": "1.5.3.1",
+  "AssemblyVersion": "1.5.3.2",
   "Description": "3D Radar to see everything through walls.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
