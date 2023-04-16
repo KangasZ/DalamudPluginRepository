@@ -9,6 +9,7 @@
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
   "AcceptsFeedback": true
