@@ -1,21 +1,21 @@
 [
     {
         "Author": "KangasZ",
-        "Name": "Radar Plugin",
-        "Punchline": "See stuff through things!",
-        "Description": "3D Radar to see everything through walls.",
-        "InternalName": "RadarPlugin",
-        "AssemblyVersion": "1.7.3.0",
-        "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
+        "Name": "UI Anti AFK Kick",
+        "Punchline": "No more wiggle checks!",
+        "Description": "A Dalamud Plugin that will do afk-timers!",
+        "InternalName": "UIAntiAfkKick",
+        "AssemblyVersion": "3.2.2.0",
+        "RepoUrl": "https://github.com/KangasZ/UIAntiAfkKick",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
+        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687278715"
+        "LastUpdate": "1687450570"
     },
     {
         "Author": "Windmourn",
@@ -33,24 +33,24 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687278715"
+        "LastUpdate": "1687450570"
     },
     {
         "Author": "KangasZ",
-        "Name": "UI Anti AFK Kick",
-        "Punchline": "No more wiggle checks!",
-        "Description": "A Dalamud Plugin that will do afk-timers!",
-        "InternalName": "UIAntiAfkKick",
-        "AssemblyVersion": "3.2.2.0",
-        "RepoUrl": "https://github.com/KangasZ/UIAntiAfkKick",
+        "Name": "Radar Plugin",
+        "Punchline": "See stuff through things!",
+        "Description": "3D Radar to see everything through walls.",
+        "InternalName": "RadarPlugin",
+        "AssemblyVersion": "1.7.4.0",
+        "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
+        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
+        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687278715"
+        "LastUpdate": "1687450570"
     }
 ]
