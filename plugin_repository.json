@@ -5,7 +5,7 @@
         "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
         "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
         "InternalName": "SkipCutscene",
-        "AssemblyVersion": "1.2.2.0",
+        "AssemblyVersion": "1.2.2.1",
         "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -15,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1694476560"
+        "LastUpdate": "1694477753"
     },
     {
         "Author": "KangasZ",
@@ -33,7 +33,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1694476560"
+        "LastUpdate": "1694477753"
     },
     {
         "Author": "KangasZ",
@@ -51,6 +51,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1694476560"
+        "LastUpdate": "1694477753"
     }
 ]
