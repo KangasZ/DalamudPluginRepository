@@ -6,7 +6,7 @@
   "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/DalamudPluginRepository",
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
