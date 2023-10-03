@@ -1,24 +1,6 @@
 [
     {
         "Author": "KangasZ",
-        "Name": "SkipCutscene",
-        "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
-        "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
-        "InternalName": "SkipCutscene",
-        "AssemblyVersion": "2.0.0.1",
-        "RepoUrl": "https://github.com/KangasZ/DalamudPluginRepository",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1694482699"
-    },
-    {
-        "Author": "KangasZ",
         "Name": "Radar Plugin",
         "Punchline": "See stuff through things!",
         "Description": "3D Radar to see everything through walls.",
@@ -33,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1694482699"
+        "LastUpdate": "1696372040"
     },
     {
         "Author": "KangasZ",
@@ -51,6 +33,24 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1694482699"
+        "LastUpdate": "1696372040"
+    },
+    {
+        "Author": "KangasZ",
+        "Name": "SkipCutscene",
+        "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
+        "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
+        "InternalName": "SkipCutscene",
+        "AssemblyVersion": "2.0.0.1",
+        "RepoUrl": "https://github.com/KangasZ/DalamudPluginRepository",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1696372040"
     }
 ]
