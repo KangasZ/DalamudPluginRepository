@@ -15,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696375715"
+        "LastUpdate": "1696463240"
     },
     {
         "Author": "KangasZ",
@@ -23,7 +23,7 @@
         "Punchline": "No more wiggle checks!",
         "Description": "A Dalamud Plugin that will do afk-timers!",
         "InternalName": "UIAntiAfkKick",
-        "AssemblyVersion": "3.2.3.3",
+        "AssemblyVersion": "3.2.3.5",
         "RepoUrl": "https://github.com/KangasZ/UIAntiAfkKick",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -33,7 +33,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696375715"
+        "LastUpdate": "1696463240"
     },
     {
         "Author": "KangasZ",
@@ -51,6 +51,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1696375715"
+        "LastUpdate": "1696463240"
     }
 ]
