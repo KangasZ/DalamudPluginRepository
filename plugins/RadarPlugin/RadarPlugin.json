@@ -2,8 +2,8 @@
   "Author": "KangasZ",
   "Name": "Radar Plugin",
   "InternalName": "RadarPlugin",
-  "AssemblyVersion": "1.7.6.2",
-  "Description": "3D Radar to see everything through walls.",
+  "AssemblyVersion": "1.7.7.0",
+  "Description": "3D Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
   "DalamudApiLevel": 9,
@@ -11,6 +11,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "See stuff through things!",
+  "Punchline": "See everything through walls",
+  "Changelog": "Added Distance Cap Feature\nUpdated Config Tab\nUpdated Show Hitbox Feature",
   "AcceptsFeedback": true
 }
