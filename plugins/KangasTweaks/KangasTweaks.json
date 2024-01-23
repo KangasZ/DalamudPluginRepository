@@ -1,0 +1,16 @@
+{
+  "Author": "KangasZ",
+  "Name": "Kangas Tweaks Plugin",
+  "InternalName": "KangasTweaks",
+  "AssemblyVersion": "0.0.4.0",
+  "Description": "Weather tracker and daily/weekly reset tracker",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/KangasZ/KangasTweaks",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Weather tracker and daily/weekly reset tracker",
+  "AcceptsFeedback": true
+}
