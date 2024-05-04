@@ -6,7 +6,7 @@
         "Description": "3D (And now 2D!) Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
         "Changelog": "2D Radar Addition!",
         "InternalName": "RadarPlugin",
-        "AssemblyVersion": "2.0.1.2",
+        "AssemblyVersion": "2.0.1.3",
         "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -16,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1714786776"
+        "LastUpdate": "1714792543"
     },
     {
         "Author": "KangasZ",
@@ -34,7 +34,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1714786776"
+        "LastUpdate": "1714792543"
     },
     {
         "Author": "KangasZ",
@@ -52,7 +52,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1714786776"
+        "LastUpdate": "1714792543"
     },
     {
         "Author": "KangasZ",
@@ -70,6 +70,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1714786776"
+        "LastUpdate": "1714792543"
     }
 ]
