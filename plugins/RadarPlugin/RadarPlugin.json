@@ -2,8 +2,8 @@
   "Author": "KangasZ",
   "Name": "Radar Plugin",
   "InternalName": "RadarPlugin",
-  "AssemblyVersion": "2.0.1.0",
-  "Description": "3D Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
+  "AssemblyVersion": "2.0.1.1",
+  "Description": "3D (And now 2D!) Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
   "DalamudApiLevel": 9,
@@ -12,6 +12,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "See everything through walls",
-  "Changelog": "New chat commands /radar [ showall | showdebug | off | on | enable | disable | toggle ]\nUpdate to dotnet 8",
+  "Changelog": "2D Radar Addition!",
   "AcceptsFeedback": true
 }
