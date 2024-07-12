@@ -1,6 +1,43 @@
 [
     {
         "Author": "KangasZ",
+        "Name": "SkipCutscene",
+        "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
+        "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
+        "InternalName": "SkipCutscene",
+        "AssemblyVersion": "2.0.0.2",
+        "RepoUrl": "https://github.com/KangasZ/DalamudPluginRepository",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1720824194"
+    },
+    {
+        "Author": "KangasZ",
+        "Name": "Radar Plugin",
+        "Punchline": "See everything through walls",
+        "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
+        "Changelog": "Fonts are broken and will be fixed eventually\nAdded player-based options via AccountId",
+        "InternalName": "RadarPlugin",
+        "AssemblyVersion": "2.1.0.0",
+        "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1720824194"
+    },
+    {
+        "Author": "KangasZ",
         "Name": "UI Anti AFK Kick",
         "Punchline": "No more wiggle checks!",
         "Description": "A Dalamud Plugin that will do afk-timers!",
@@ -15,7 +52,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1719990238"
+        "LastUpdate": "1720824194"
     },
     {
         "Author": "KangasZ",
@@ -33,43 +70,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1719990238"
-    },
-    {
-        "Author": "KangasZ",
-        "Name": "Radar Plugin",
-        "Punchline": "See everything through walls",
-        "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
-        "Changelog": "Update for Dawntrail\nFonts are broken and will be fixed eventually",
-        "InternalName": "RadarPlugin",
-        "AssemblyVersion": "2.0.3.1",
-        "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 10,
-        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1719990238"
-    },
-    {
-        "Author": "KangasZ",
-        "Name": "SkipCutscene",
-        "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
-        "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
-        "InternalName": "SkipCutscene",
-        "AssemblyVersion": "2.0.0.2",
-        "RepoUrl": "https://github.com/KangasZ/DalamudPluginRepository",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 10,
-        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1719990238"
+        "LastUpdate": "1720824194"
     }
 ]
