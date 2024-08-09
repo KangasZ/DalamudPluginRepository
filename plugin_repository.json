@@ -5,8 +5,8 @@
         "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
         "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
         "InternalName": "SkipCutscene",
-        "AssemblyVersion": "2.0.0.2",
-        "RepoUrl": "https://github.com/KangasZ/DalamudPluginRepository",
+        "AssemblyVersion": "3.0.0.0",
+        "RepoUrl": "https://github.com/KangasZ/SkipCutscene",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
         "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
@@ -15,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1723232881"
+        "LastUpdate": "1723234307"
     },
     {
         "Author": "KangasZ",
@@ -33,7 +33,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1723232881"
+        "LastUpdate": "1723234307"
     },
     {
         "Author": "KangasZ",
@@ -52,7 +52,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1723232881"
+        "LastUpdate": "1723234307"
     },
     {
         "Author": "KangasZ",
@@ -70,6 +70,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1723232881"
+        "LastUpdate": "1723234307"
     }
 ]
