@@ -16,7 +16,6 @@ Please do not include my projects in other custom repos like Aku API.
 
 ### Forks
 - [KangasZ/UIAntiAfkKick](https://github.com/KangasZ/UIAntiAfkKick) Forked from [NightmareXIV/AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick) 
-- [KangasZ/EurekaHelper](https://github.com/KangasZ/EurekaHelper) Forked from [snorux/EurekaHelper](https://github.com/snorux/EurekaHelper)
 - [KangasZ/SkipCutscene](https://github.com/KangasZ/SkipCutscene) Forked from somewhere... idk
 
 ## Licenses
