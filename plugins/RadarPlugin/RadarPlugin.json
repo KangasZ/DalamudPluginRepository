@@ -2,7 +2,7 @@
   "Author": "KangasZ",
   "Name": "Radar Plugin",
   "InternalName": "RadarPlugin",
-  "AssemblyVersion": "2.1.4.3",
+  "AssemblyVersion": "2.1.5.0",
   "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
@@ -12,6 +12,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "See everything through walls",
-  "Changelog": "Updated for 7.2 and API12.\nYou will need to have or derrive your account id to use the account-based custom options",
+  "Changelog": "Initial (incomplete) update to occult crescent",
   "AcceptsFeedback": true
 }
