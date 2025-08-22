@@ -16,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1754857728"
+        "LastUpdate": "1755824338"
     },
     {
         "Author": "KangasZ",
@@ -34,7 +34,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1754857728"
+        "LastUpdate": "1755824338"
     },
     {
         "Author": "KangasZ",
@@ -42,17 +42,17 @@
         "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
         "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
         "InternalName": "SkipCutscene",
-        "AssemblyVersion": "3.0.1.1",
+        "AssemblyVersion": "3.0.1.2",
         "RepoUrl": "https://github.com/KangasZ/SkipCutscene",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1754857728"
+        "LastUpdate": "1755824338"
     },
     {
         "Author": "KangasZ",
@@ -70,6 +70,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1754857728"
+        "LastUpdate": "1755824338"
     }
 ]
