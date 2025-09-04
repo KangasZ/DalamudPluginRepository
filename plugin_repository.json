@@ -1,43 +1,6 @@
 [
     {
         "Author": "KangasZ",
-        "Name": "Radar Plugin",
-        "Punchline": "See everything through walls",
-        "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
-        "Changelog": "Initial (incomplete) update to occult crescent",
-        "InternalName": "RadarPlugin",
-        "AssemblyVersion": "2.1.6.0",
-        "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1755824834"
-    },
-    {
-        "Author": "KangasZ",
-        "Name": "Kangas Tweaks Plugin",
-        "Punchline": "Weather tracker and daily/weekly reset tracker",
-        "Description": "Weather tracker and daily/weekly reset tracker",
-        "InternalName": "KangasTweaks",
-        "AssemblyVersion": "0.0.7.3",
-        "RepoUrl": "https://github.com/KangasZ/KangasTweaks",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1755824834"
-    },
-    {
-        "Author": "KangasZ",
         "Name": "SkipCutscene",
         "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
         "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
@@ -52,7 +15,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1755824834"
+        "LastUpdate": "1756993870"
     },
     {
         "Author": "KangasZ",
@@ -70,6 +33,43 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1755824834"
+        "LastUpdate": "1756993870"
+    },
+    {
+        "Author": "KangasZ",
+        "Name": "Kangas Tweaks Plugin",
+        "Punchline": "Weather tracker and daily/weekly reset tracker",
+        "Description": "Weather tracker and daily/weekly reset tracker",
+        "InternalName": "KangasTweaks",
+        "AssemblyVersion": "0.0.7.3",
+        "RepoUrl": "https://github.com/KangasZ/KangasTweaks",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 13,
+        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1756993870"
+    },
+    {
+        "Author": "KangasZ",
+        "Name": "Radar Plugin",
+        "Punchline": "See everything through walls",
+        "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
+        "Changelog": "Initial (incomplete) update to occult crescent",
+        "InternalName": "RadarPlugin",
+        "AssemblyVersion": "2.1.7.0",
+        "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 13,
+        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1756993870"
     }
 ]
