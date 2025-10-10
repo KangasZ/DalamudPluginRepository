@@ -15,16 +15,16 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1759981993"
+        "LastUpdate": "1760060397"
     },
     {
         "Author": "KangasZ",
         "Name": "Radar Plugin",
         "Punchline": "See everything through walls",
         "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
-        "Changelog": "Initial (incomplete) update to occult crescent",
+        "Changelog": "Initial support for new deep dungeon",
         "InternalName": "RadarPlugin",
-        "AssemblyVersion": "2.1.7.3",
+        "AssemblyVersion": "2.1.8.0",
         "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
@@ -34,7 +34,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1759981993"
+        "LastUpdate": "1760060397"
     },
     {
         "Author": "KangasZ",
@@ -52,7 +52,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1759981993"
+        "LastUpdate": "1760060397"
     },
     {
         "Author": "KangasZ",
@@ -70,6 +70,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1759981993"
+        "LastUpdate": "1760060397"
     }
 ]
