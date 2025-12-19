@@ -2,7 +2,7 @@
   "Author": "KangasZ",
   "Name": "UI Anti AFK Kick",
   "InternalName": "UIAntiAfkKick",
-  "AssemblyVersion": "3.2.6.4",
+  "AssemblyVersion": "3.2.6.5",
   "Description": "A Dalamud Plugin that will do afk-timers!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/UIAntiAfkKick",
