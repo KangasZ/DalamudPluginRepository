@@ -2,7 +2,7 @@
   "Author": "KangasZ",
   "Name": "SkipCutscene",
   "InternalName": "SkipCutscene",
-  "AssemblyVersion": "3.0.1.2",
+  "AssemblyVersion": "3.0.1.3",
   "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/SkipCutscene",
