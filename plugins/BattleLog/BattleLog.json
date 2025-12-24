@@ -1,0 +1,17 @@
+{
+  "Author": "KangasZ",
+  "Name": "BattleLog",
+  "InternalName": "BattleLog",
+  "AssemblyVersion": "0.0.0.2",
+  "Description": "Trigger making made easy",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/KangasZ/BattleLog",
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Trigger making made easy",
+  "Changelog": "Initial Release",
+  "AcceptsFeedback": true
+}
