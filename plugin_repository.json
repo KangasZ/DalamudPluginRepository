@@ -15,7 +15,26 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1766121289"
+        "LastUpdate": "1766596574"
+    },
+    {
+        "Author": "KangasZ",
+        "Name": "BattleLog",
+        "Punchline": "Trigger making made easy",
+        "Description": "Trigger making made easy",
+        "Changelog": "Initial Release",
+        "InternalName": "BattleLog",
+        "AssemblyVersion": "0.0.0.2",
+        "RepoUrl": "https://github.com/KangasZ/BattleLog",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/BattleLog/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/BattleLog/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/BattleLog/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1766596574"
     },
     {
         "Author": "KangasZ",
@@ -34,7 +53,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1766121289"
+        "LastUpdate": "1766596574"
     },
     {
         "Author": "KangasZ",
@@ -52,7 +71,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1766121289"
+        "LastUpdate": "1766596574"
     },
     {
         "Author": "KangasZ",
@@ -70,6 +89,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1766121289"
+        "LastUpdate": "1766596574"
     }
 ]
