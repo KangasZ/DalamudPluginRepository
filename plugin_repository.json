@@ -5,17 +5,17 @@
         "Punchline": "Weather tracker and daily/weekly reset tracker",
         "Description": "Weather tracker and daily/weekly reset tracker",
         "InternalName": "KangasTweaks",
-        "AssemblyVersion": "0.0.7.5",
+        "AssemblyVersion": "0.0.7.6",
         "RepoUrl": "https://github.com/KangasZ/KangasTweaks",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "DownloadLinkInstall": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777741010"
+        "LastUpdate": "1777742471"
     },
     {
         "Author": "KangasZ",
@@ -33,7 +33,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777741010"
+        "LastUpdate": "1777742471"
     },
     {
         "Author": "KangasZ",
@@ -52,7 +52,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777741010"
+        "LastUpdate": "1777742471"
     },
     {
         "Author": "KangasZ",
@@ -70,7 +70,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777741010"
+        "LastUpdate": "1777742471"
     },
     {
         "Author": "KangasZ",
@@ -89,6 +89,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/BattleLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/BattleLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777741010"
+        "LastUpdate": "1777742471"
     }
 ]
