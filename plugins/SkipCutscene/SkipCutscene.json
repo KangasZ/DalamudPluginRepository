@@ -2,15 +2,15 @@
   "Author": "KangasZ",
   "Name": "SkipCutscene",
   "InternalName": "SkipCutscene",
-  "AssemblyVersion": "3.0.1.4",
+  "AssemblyVersion": "3.0.1.5",
   "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/SkipCutscene",
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Skip Cutscene",
+  "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
   "AcceptsFeedback": true
 }
