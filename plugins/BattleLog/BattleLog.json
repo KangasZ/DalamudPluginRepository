@@ -2,7 +2,7 @@
   "Author": "KangasZ",
   "Name": "BattleLog",
   "InternalName": "BattleLog",
-  "AssemblyVersion": "0.0.0.4",
+  "AssemblyVersion": "0.0.0.6",
   "Description": "Creates a simple interface that tracks casts and player debuffs that can then be used to create triggernomotry triggers",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/KangasZ/BattleLog",
