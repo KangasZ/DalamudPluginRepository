@@ -6,7 +6,7 @@
         "Description": "Creates a simple interface that tracks casts and player debuffs that can then be used to create triggernomotry triggers",
         "Changelog": "TTS callout on cast made easy",
         "InternalName": "BattleLog",
-        "AssemblyVersion": "0.0.0.6",
+        "AssemblyVersion": "0.0.0.7",
         "RepoUrl": "https://github.com/KangasZ/BattleLog",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 15,
@@ -16,7 +16,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/BattleLog/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/BattleLog/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1786426365"
+        "LastUpdate": "1786476252"
     },
     {
         "Author": "KangasZ",
@@ -34,7 +34,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/SkipCutscene/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1786426365"
+        "LastUpdate": "1786476252"
     },
     {
         "Author": "KangasZ",
@@ -52,7 +52,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/UIAntiAfkKick/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1786426365"
+        "LastUpdate": "1786476252"
     },
     {
         "Author": "KangasZ",
@@ -71,7 +71,7 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/RadarPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1786426365"
+        "LastUpdate": "1786476252"
     },
     {
         "Author": "KangasZ",
@@ -89,6 +89,6 @@
         "DownloadLinkTesting": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadLinkUpdate": "https://github.com/KangasZ/DalamudPluginRepository/raw/main/plugins/KangasTweaks/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1786426365"
+        "LastUpdate": "1786476252"
     }
 ]
